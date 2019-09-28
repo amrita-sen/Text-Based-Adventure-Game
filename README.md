@@ -1,4 +1,4 @@
-# Text-Based-Adventure-Game
+# Text-Based-Adventure-Game (Academic Assignment)
 This is a text-based adventure game that has a simple interface in which the player types in commands using the keyboard. 
 These commands allow the player to move through and search the gaming environment, pick up objects and fight monsters.
 
